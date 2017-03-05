@@ -1,0 +1,16 @@
+C:\Users\hlucas\Google Drive\AcademyPGH\BlogApplication\BlogApplication\bin\Debug\BlogApplication.exe.config
+C:\Users\hlucas\Google Drive\AcademyPGH\BlogApplication\BlogApplication\obj\Debug\BlogApplication.csprojResolveAssemblyReference.cache
+C:\Users\hlucas\Google Drive\AcademyPGH\BlogApplication\BlogApplication\bin\Debug\Database1.mdf
+C:\Users\hlucas\Google Drive\AcademyPGH\BlogApplication\BlogApplication\bin\Debug\Database1_log.ldf
+C:\Users\hlucas\Google Drive\AcademyPGH\BlogApplication\BlogApplication\bin\Debug\BlogApplication.exe
+C:\Users\hlucas\Google Drive\AcademyPGH\BlogApplication\BlogApplication\bin\Debug\BlogApplication.pdb
+C:\Users\hlucas\Google Drive\AcademyPGH\BlogApplication\BlogApplication\obj\Debug\BlogApplication.exe
+C:\Users\hlucas\Google Drive\AcademyPGH\BlogApplication\BlogApplication\obj\Debug\BlogApplication.pdb
+C:\Users\hlucas\Google Drive\AcademyPGH\week5\BlogApplication\BlogApplication\bin\Debug\BlogApplication.exe.config
+C:\Users\hlucas\Google Drive\AcademyPGH\week5\BlogApplication\BlogApplication\obj\Debug\BlogApplication.exe
+C:\Users\hlucas\Google Drive\AcademyPGH\week5\BlogApplication\BlogApplication\obj\Debug\BlogApplication.pdb
+C:\Users\hlucas\Google Drive\AcademyPGH\week5\BlogApplication\BlogApplication\obj\Debug\BlogApplication.csprojResolveAssemblyReference.cache
+C:\Users\hlucas\Google Drive\AcademyPGH\week5\BlogApplication\BlogApplication\bin\Debug\Database1.mdf
+C:\Users\hlucas\Google Drive\AcademyPGH\week5\BlogApplication\BlogApplication\bin\Debug\Database1_log.ldf
+C:\Users\hlucas\Google Drive\AcademyPGH\week5\BlogApplication\BlogApplication\bin\Debug\BlogApplication.exe
+C:\Users\hlucas\Google Drive\AcademyPGH\week5\BlogApplication\BlogApplication\bin\Debug\BlogApplication.pdb
